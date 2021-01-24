@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testcodepush</string>
+       <string name="CodePushDeploymentKey">testcodepush</string>
+</resources>
