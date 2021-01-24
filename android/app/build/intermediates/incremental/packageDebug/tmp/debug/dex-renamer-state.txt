@@ -1,4 +1,4 @@
-#Sun Jan 24 16:56:15 BRT 2021
-base.0=/Users/joaovictorlobao/frontend_ic_novo/testcodepush/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sun Jan 24 17:26:23 BRT 2021
+base.0=/Users/joaovictorlobao/testecodepush/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
