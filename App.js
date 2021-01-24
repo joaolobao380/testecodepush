@@ -9,7 +9,7 @@ class MyApp extends Component {
   render() {
     return (
       <View>
-        <Text>oi</Text>
+        <Text>olá galera</Text>
       </View>
     );
   }

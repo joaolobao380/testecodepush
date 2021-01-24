@@ -1,4 +1,4 @@
-#Sun Jan 24 17:46:24 BRT 2021
+#Sun Jan 24 18:00:47 BRT 2021
 base.0=/Users/joaovictorlobao/testecodepush/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

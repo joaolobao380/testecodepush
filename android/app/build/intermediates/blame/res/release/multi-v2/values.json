@@ -22,11 +22,9 @@
                 {
                     "source": "/Users/joaovictorlobao/testecodepush/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,-1",
-                        "startColumns": "7,-1",
-                        "startOffsets": "69,-1",
-                        "endColumns": "90,-1",
-                        "endOffsets": "152,-1"
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
                     },
                     "to": {
                         "startLines": "224,265",
